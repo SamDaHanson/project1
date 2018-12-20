@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+# Project 1
+
+Troy
+=======
 # Spotify Accounts Authentication Examples
 
 This project contains basic demos showing the different OAuth 2.0 flows for [authenticating against the Spotify Web API](https://developer.spotify.com/web-api/authorization-guide/).
@@ -33,3 +38,4 @@ In order to run the different examples, open the folder with the name of the flo
     $ node app.js
 
 Then, open `http://localhost:8888` in a browser.
+>>>>>>> cee79ca585bb7275e3ceb26dc94386334dc91627
